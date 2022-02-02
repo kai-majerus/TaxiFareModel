@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kai/code/kai-majerus/TaxiFareModel/mlruns/1/28f48b94a25244edbca9ea74f467c762/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 28f48b94a25244edbca9ea74f467c762
+run_uuid: 28f48b94a25244edbca9ea74f467c762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1643828066211
+status: 1
+tags: []
+user_id: unknown
