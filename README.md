@@ -1,12 +1,38 @@
-# Data analysis
-- Document here the project: TaxiFareModel
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+<!-- Add banner here -->
 
-Please document the project the better you can.
+# Taxi Fare Prediction Model
+
+<!-- Add buttons here -->
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
+![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
+![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
+![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
+
+This aim of this project is to train a model at scale using the [Kaggle New York City Taxi Fare Dataset](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data) and hosts an API using Streamlit and Heroku that will predict the price of a taxi fare.
+
+Tech stack
+* Language - Python
+* Tools - GCP, ML Flow, Streamlit, Heroku.
+* Libraries - Pandas, NumPy, sklearn
+
+# Demo-Preview
+[(Back to top)](#table-of-contents)
+
+To Add
+
+# Table of contents
+
+- [Project Title](#taxi-fare-prediction-model)
+- [Demo-Preview](#demo-preview)
+- [Table of contents](#table-of-contents)
+- [Startup the project](#startup-the-project)
+- [Installation](#installation)
+- [Development](#development)
+- [Footer](#footer)
 
 # Startup the project
+[(Back to top)](#table-of-contents)
 
 The initial setup.
 
@@ -72,3 +98,13 @@ mkdir tmp
 cd tmp
 TaxiFareModel-run
 ```
+
+# Development
+[(Back to top)](#table-of-contents)
+
+To Add
+
+# Footer
+[(Back to top)](#table-of-contents)
+
+![footer_video](https://user-images.githubusercontent.com/53292276/156608882-fd58c52c-6aec-4710-9544-54529ba4eba0.gif)
