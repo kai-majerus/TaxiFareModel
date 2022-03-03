@@ -9,7 +9,9 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
 ![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
 
-This aim of this project is to train a model at scale using the [Kaggle New York City Taxi Fare Dataset](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data) and predict the price of a new taxi journey. I will host an API using Google Cloud Run on a lightweight website using Streamlit and Heroku. The repo that stores the code for the front-end is [here](https://github.com/kai-majerus/TaxiFareWebsite).
+This aim of this project is to train a model at scale using the [Kaggle New York City Taxi Fare Dataset](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data) and predict the price of a new taxi journey. I will host an API using Google Cloud Run on a lightweight website using Streamlit and Heroku. The repo that stores the code for the front-end is [here](https://github.com/kai-majerus/TaxiFareWebsite). 
+
+The website can be found [here](https://kmajerus-taxifareapi.herokuapp.com/) and is a work in progress. I would like to add a map interface so that users can select pickup and dropoff locations on the map rather than entering longitude and latitude.
 
 Tech stack
 * Language - Python
