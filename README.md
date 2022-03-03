@@ -9,7 +9,7 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
 ![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
 
-This aim of this project is to train a model at scale using the [Kaggle New York City Taxi Fare Dataset](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data) and hosts an API using Streamlit and Heroku that will predict the price of a taxi fare.
+This aim of this project is to train a model at scale using the [Kaggle New York City Taxi Fare Dataset](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data) and predict the price of a new taxi journey. I will host an API using Google Cloud Run on a lightweight website using Streamlit and Heroku. The repo that stores the code for the front-end is [here](https://github.com/kai-majerus/TaxiFareWebsite).
 
 Tech stack
 * Language - Python
