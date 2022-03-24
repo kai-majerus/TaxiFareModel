@@ -2,7 +2,8 @@
 
 # Taxi Fare Prediction Model
 
-![](images/snapshot.png)
+<img width="1440" alt="snapshot" src="https://user-images.githubusercontent.com/53292276/159992101-71a76c5a-10d1-4ab6-94f4-b1da3fda64a4.png">
+
 
 <!-- Add buttons here -->
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
